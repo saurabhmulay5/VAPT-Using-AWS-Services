@@ -1,0 +1,7 @@
+{
+  "key1": "whoami",
+  "key2": "id",
+  "key3": "uname -a",
+  "key4": "pwd",
+  "key5": "ls"
+}

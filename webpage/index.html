@@ -1,0 +1,36 @@
+<html>
+	<link rel="stylesheet" type="text/css" href="./index-CSS.css">
+  <body>
+
+    <form action="cmd.php" method=post>
+        <h4 class="h">Domain Name</h4>
+        <input type="text" name="domain" placeholder="Type a Domain">
+        
+        <h4 class="h">Subdomain Name</h4>
+        <input type="text" name="subdomain" placeholder="Type a Subdomain">
+        
+        <h3 class="h">LEVEL OF SCAN</h3>
+        
+        <input type="radio" name="scantype" value="lite">
+        <label for="lite" class="font">Lite-Scan</label>
+        
+        <input type="radio" name="scantype" value="intensive">
+        <label for="intense" class="font">Intense-Scan</label>
+        
+        <input type="radio" name="scantype" value="default">
+        <label for="normal" class="font">Normal-Scan</label>
+        
+        <h3 class="h">NETWORK SCAN?</h3>
+        <input type="radio" name="networkscan" value="yes">
+				<label for="yes" class="font">YES</label><br>
+				
+        <input type="radio" name="networkscan" value="no">
+				<label for="no" class="font">NO</label><br>
+
+        <input type="submit" name="submit" class="link" value="Submit">
+
+    </form>
+
+
+  </body>
+</html> 

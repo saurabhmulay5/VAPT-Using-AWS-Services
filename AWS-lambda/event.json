@@ -1,0 +1,6 @@
+{
+    "domain": "cdac.in",
+    "subdomain": "paramutkarsh.cdac.in",
+    "scantype": "lite",
+    "networkscan": "no"         # yes to scan for network vulnerabilties
+}

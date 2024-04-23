@@ -1,0 +1,3 @@
+AmazonS3FullAccess	#AWS managed	Provides full access to all buckets via the AWS Management Console.
+	
+AmazonSSMManagedInstanceCore	#AWS managed	The policy for Amazon EC2 Role to enable AWS Systems Manager service core functionality.

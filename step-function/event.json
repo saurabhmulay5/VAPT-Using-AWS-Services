@@ -1,0 +1,6 @@
+{
+    "domain": "cdac.in",
+    "subdomain": "paramutkarsh.cdac.in",
+    "scantype": "lite",         // lite/intensive/normal
+    "networkscan": "no"         // yes/no
+}

@@ -1,0 +1,5 @@
+AmazonS3FullAccess  #AWS managed	Provides full access to all buckets via the AWS Management Console.
+	
+AWSLambdaBasicExecutionRole #AWS managed	Provides write permissions to CloudWatch Logs.
+	
+AWSLambdaRole	#AWS managed	Default policy for AWS Lambda service role.
